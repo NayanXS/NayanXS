@@ -1,6 +1,6 @@
 # Hi there, I'm Nayan Jyoti Sharma! 👋
 
-![Profile Banner]([[https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile](https://t3.ftcdn.net/jpg/09/34/53/56/240_F_934535634_8PSN0uV5p0TcTwXiaf4uU3r94EplKkXn.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.productleadership.com%2Fevents-hub%2Fproduct-leadership-festival%2F&psig=AOvVaw1cBkV1bCZ4PZ7W8Ddq-Nv0&ust=1733987060579000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDtkMeTn4oDFQAAAAAdAAAAABAE)) <!-- Replace with your custom banner image URL -->
+![Profile Banner](chatGPT-GitHub-banner.jpg) <!-- Replace with your custom banner image URL -->
 
 ---
 
