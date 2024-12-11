@@ -29,9 +29,9 @@
 ## 🚀 Projects
 
 ### 📊 Data Analytics Projects
-- **[Store Annual Data Analysis](https://1drv.ms/x/c/b770a6cd097714de/Ef8beWnr2bhPvDILAYLBDtEBMV-Q1dWIr0Y5B9i6dAOj9Q?e=zzkfMY)**: An analysis project using Excel Analyse Data of past 3 year to find insight to make future decisions. After data-cleaning and analysing created a dashboard for the Data Virtualization.
-- **[Sales Data Analysis](https://1drv.ms/x/c/b770a6cd097714de/ESA1_N8ZM_lIs_6XU77so1wB3lAGXm7eI76e7DyFrGQi-g?e=jxV91u)**: Created a Excel Dashboard Analysing the Data of a industries showing the top category of sales and top customers. The dashboard gives a insight of profit gained over time with customer distribution with respect to the area.
-- **[HR Analytics Dashboard](#)**: Developed an HR Analytics dashboard using Power BI to help an organization reducing attrition rates.
+- **[Store Annual Data Analysis](https://1drv.ms/x/c/b770a6cd097714de/Ef8beWnr2bhPvDILAYLBDtEBMV-Q1dWIr0Y5B9i6dAOj9Q?e=zzkfMY)**: An analysis project using **Excel** Analyse Data of past 3 year to find insight to make future decisions. After data-cleaning and analysing created a dashboard for the Data Virtualization.
+- **[Sales Data Analysis](https://1drv.ms/x/c/b770a6cd097714de/ESA1_N8ZM_lIs_6XU77so1wB3lAGXm7eI76e7DyFrGQi-g?e=jxV91u)**: Created a **Excel** Dashboard Analysing the Data of a industries showing the top category of sales and top customers. The dashboard gives a insight of profit gained over time with customer distribution with respect to the area.
+- **[HR Analytics Dashboard](https://www.linkedin.com/posts/nayanxs_powerbi-hranalytics-datadriven-activity-7264073036683755520-0RIU?utm_source=share&utm_medium=member_desktop)**: Developed an HR Analytics dashboard using **Power BI** to help an organization reducing attrition rates.
  Identified key performance indicators (KPIs) to track employee engagement, satisfaction, age, and
  turnover rates.
  
