@@ -18,8 +18,8 @@
 
 <div align="center">
 
-![Python](Python.jpg)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](pythonnewwww.jpg)
+![MySQL](aa7ffc9id.jpg)
 ![Power BI](Powerbinew.gif)
 ![Excel](EXCEL.gif)
 
