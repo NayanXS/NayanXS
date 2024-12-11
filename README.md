@@ -32,7 +32,7 @@
 - **[HR Analytics Dashboard](#)**: Developed an HR Analytics dashboard using Power BI to help an organization reducing attrition rates.
  Identified key performance indicators (KPIs) to track employee engagement, satisfaction, age, and
  turnover rates.
-- **[Store Data Analysis](#)**: An analysis project using Excel Analyse Data of past 3 year to find insight to make future decisions. After data-cleaning and analysing created a dashboard for the Data Virtualization.
+- **[Store Data Analysis](https://1drv.ms/x/c/b770a6cd097714de/Ef8beWnr2bhPvDILAYLBDtEBMV-Q1dWIr0Y5B9i6dAOj9Q?e=zzkfMY)**: An analysis project using Excel Analyse Data of past 3 year to find insight to make future decisions. After data-cleaning and analysing created a dashboard for the Data Virtualization.
  
 ### 🌟 Featured Contributions
 - **[Business Strategy for a Food Chain Startup](#)**: Developed a comprehensive strategy for a growing local food chain startup, focusing on scalability and consistent brand image across multiple locations.  Conducted competitor analysis to identify gaps in the local food market, offering insights for
