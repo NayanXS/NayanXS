@@ -29,12 +29,18 @@
 ## 🚀 Projects
 
 ### 📊 Data Analytics Projects
-- **[Sales Analysis Dashboard](#)**: A Power BI dashboard showcasing sales trends and insights for informed decision-making.
-- **[Customer Segmentation](#)**: An analysis project using Python and MySQL to categorize customers for targeted strategies.
-
+- **[HR Analytics Dashboard](#)**: Developed an HR Analytics dashboard using Power BI to help an organization reducing attrition rates.
+ Identified key performance indicators (KPIs) to track employee engagement, satisfaction, age, and
+ turnover rates.
+- **[Store Data Analysis](#)**: An analysis project using Excel Analyse Data of past 3 year to find insight to make future decisions. After data-cleaning and analysing created a dashboard for the Data Virtualization.
+ 
 ### 🌟 Featured Contributions
-- **[Project Name](#)**: Brief description.
-- **[Open-Source Contributions](#)**: Enhancing tools and utilities for the community.
+- **[Business Strategy for a Food Chain Startup](#)**: Developed a comprehensive strategy for a growing local food chain startup, focusing on scalability and consistent brand image across multiple locations.  Conducted competitor analysis to identify gaps in the local food market, offering insights for
+ differentiation and unique selling points.
+- **[Data Analysis for the Local Restaurants and Cafes](#)**: Crafted data-driven business strategies for local restaurants, cafes, startups, and hospitals, leading to a
+ revenue increase.
+  Analysed data from Pet Pooja billing app to identify food-fall time and create strategies based on it .
+  Managed the team to look after the clients and the fluent work flow.
 
 ---
 
